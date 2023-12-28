@@ -29,3 +29,6 @@ Follow these steps to set up and run the Telebot-GPT:
    ```bash
    pip install -r requirements.txt
    ```
+
+   python tele_echo_bot.py    
+   python telebot.py
