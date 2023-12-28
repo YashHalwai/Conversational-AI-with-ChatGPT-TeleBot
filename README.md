@@ -30,5 +30,14 @@ Follow these steps to set up and run the Telebot-GPT:
    pip install -r requirements.txt
    ```
 
-   python tele_echo_bot.py    
+4. **Run the Telebot:**
+
+   ```bash
+   python tele_echo_bot.py
+   ```
+
+   ```bash
    python telebot.py
+   ```
+
+This will start the Telebot-GPT application, and you can interact with it on your Telegram account. Ensure that you have provided the necessary API key from OpenAI for the application to function correctly.
